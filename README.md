@@ -8,10 +8,10 @@ Crimson Dynamite is a short, 8 level 2D platformer made by myself over the span 
 
 CONTROLS
 
-WASD to move
-Left Click to shoot
-Space to jump
-Mouse to aim
+WASD to move | 
+Left Click to shoot | 
+Space to jump | 
+Mouse to aim | 
 
 PREMISE
 
