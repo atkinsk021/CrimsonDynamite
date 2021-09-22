@@ -19,4 +19,4 @@ Each level has a timer of 30 seconds. Complete each level within the time limit 
 Can you beat all 8 levels in a row? Good Luck!
 Requires a download link from MAYA due to size limits of Github.
 
-MAYA download link : https://mega.nz/#!IEhUEQDC!QbLH1u82h2N6nFW4yEHgj_aD5_4mnzktf9MOAuDzx9I
+Itch.io download link : https://skeletonkev.itch.io/crimson-dynamite
